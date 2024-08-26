@@ -19,7 +19,7 @@
         <swagger.jersey2.version>1.5.17</swagger.jersey2.version>
         <swagger.ui.version>3.5.0</swagger.ui.version>
         <swagger-core-version>1.5.10</swagger-core-version>
-        <springfox-version>2.5.0</springfox-version>
+        <springfox-version>2.10.0</springfox-version>
     </properties>
 
     <dependencies>
